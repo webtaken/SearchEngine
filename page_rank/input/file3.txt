@@ -1,0 +1,2 @@
+file3.txt$En todo caso file2.txt
+file3.txt$kkkkk

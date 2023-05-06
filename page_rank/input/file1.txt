@@ -1,0 +1,3 @@
+file1.txt$Ahora como hacemos file2.txt
+file1.txt$Jajaja
+file1.txt$file3.txt
